@@ -60,6 +60,6 @@ The app defines following CRUD APIs.
 
 You can test them using postman or any other rest client.
 
-## Learn more
+## More
 
 Check live site [here](https://young-inlet-20837.herokuapp.com/)
